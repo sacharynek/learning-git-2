@@ -1,0 +1,10 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.part {
+	column-count: 3;
+    column-gap: 40px;
+    column-width: 300px;
+}
